@@ -1,0 +1,36 @@
+{
+ "products": [
+    {
+       "name": "Mushrooms",
+       "imgPath": "img/products/mushroom.jpg",
+		   "pageUrl": "detail_0",
+			 "price": 5.5,
+			 "id": 0,
+         "description": "A mushroom is the reproductive structure produced by some fungi. It is somewhat like the fruit of a plant, except that the 'seeds' it produces are in fact millions of microscopic spores that form in the gills or pores underneath the mushroom's cap."
+    },
+    {
+       "name": "Potatos",
+       "imgPath": "img/products/potato.jpg",
+			 "pageUrl": "detail_1",
+			 "price": 3.5,
+			 "id": 1,
+          "description": "The potato is a starchy tuber of the plant Solanum tuberosum and is a root vegetable native to the Americas. The plant is a perennial in the nightshade family Solanaceae. Potato."
+    },
+    {
+       "name": "carrots",
+       "imgPath": "img/products/carrot.jpg",
+			 "pageUrl": "detail_2",
+			 "price": 2.5,
+			 "id": 2,
+          "description": "Both written history and molecular genetic studies indicate that the domestic carrot has a single origin in Central Asia. Its wild ancestors probably originated in Persia (regions of which are now Iran and Afghanistan), which remains the centre of diversity for the wild carrot Daucus carota. A naturally occurring subspecies of the wild carrot was presumably bred selectively over the centuries to reduce bitterness, increase sweetness and minimise the woody core; this process produced the familiar garden vegetable."
+    },
+    {
+       "name": "Tomatoes",
+       "imgPath": "img/products/tomatoes.jpg",
+			 "pageUrl": "detail_3",
+			 "price": 4.5,
+			 "id": 3,
+          "description": "Tomatoes are fruits that are considered vegetables by nutritionists. Botanically, a fruit is a ripened flower ovary and contains seeds. Tomatoes, plums, zucchinis, and melons are all edible fruits, but things like maple “helicopters” and floating dandelion puffs are fruits too."
+    }
+]
+}
